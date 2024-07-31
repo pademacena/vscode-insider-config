@@ -6,6 +6,7 @@ JavaScript and TypeScript Nightly
 ESLint
 DotENV
 Color Highlight
+codeMetrics
 
 ### Fonte
 JetBrains Mono
