@@ -1,0 +1,11 @@
+Apc Customize UI ++
+Git Graph
+Min Theme
+Symbols
+JavaScript and TypeScript Nightly
+ESLint
+DotENV
+Color Highlight
+
+### Fonte
+JetBrains Mono
